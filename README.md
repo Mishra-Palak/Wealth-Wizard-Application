@@ -1,5 +1,5 @@
-# Money-Management-System
-This application is your personalized money tracker to check on your daily expenditure, and manage and analyse your spending.
+# PERSONALISED MONEY MANAGEMENT SYSTEM
+This application is your personalised money tracker to check on your daily expenditure, and manage and analyse your spending.
 
 ## OVERVIEW OF THE PROJECT
 A penny saved is a penny earned!!!
@@ -17,3 +17,7 @@ bank info, etc. and check our progress on a daily basis.
 1. sqlite3 – SQLite3 can be integrated with Python using sqlite3 module. It provides an SQL interface. You do not need to install this module separately because it is shipped by default along with Python version 2.5.x onwards.
 To use sqlite3 module, you must first create a connection object that represents the database and then optionally you can create a cursor object, which will help you in executing all the SQL statements.
 2. random - Python defines a set of functions that are used to generate or manipulate random numbers. This particular type of functions are used in a lot of games, lotteries or any application requiring random number generation.
+
+## CONCLUSION
+Python is an object-oriented, high level language. It is indeed easy learn and use. It can be easily integrated with various databases, like SQLite, MySQL, etc., using SQL (Structured Query Language). We can built a comprehensive applications using Python using native language features and also using in-built and external libraries.
+This project is a money management application that enables multiple users to have a single application to store and manage the money that they have either earned or spent (from their multiple bank accounts including other money sources too) on a daily basis. The application uses a relational database to efficiently store and manage users and also all the money transactions.
