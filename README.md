@@ -1,7 +1,11 @@
-# WEALTH WIZARD
-This application is your personalised money tracker to check on your daily expenditure, and manage and analyse your spending.
+# WEALTH WIZARD - A PERSONALISED MONEY MANAGEMENT SYSTEM
+This application is a comprehensive financial tool that empowers individuals to take control of their personal finances. It is designed to help users effectively plan, track, and manage their income and expenses, allowing them to achieve their financial goals and maintain a healthy financial lifestyle.
 
-## OVERVIEW OF THE PROJECT
+It typically provides a user-friendly interface, allowing individuals to input their income sources, set up budget categories, and establish spending limits for each category. Users can also record their expenses and categorize them accordingly.
+
+One of the key aspects of this self-budget management system is its ability to highlight areas of overspending, identify saving opportunities, and offer insights into spending patterns over time.
+
+## OVERVIEW OF THE APPLICATION
 A penny saved is a penny earned!!!
 1. This application is your personalised money tracker to check on your daily expenditure, and manage and analyse your spending.
 2. This project is a highly useful application designed to keep record of one’s money transactions for a family or a group.
@@ -14,10 +18,9 @@ bank info, etc. and check our progress on a daily basis.
 8. With various features, this application is the best personalised money management system.
 
 ## PYTHON LIBRARIES USED
-1. sqlite3 – SQLite3 can be integrated with Python using sqlite3 module. It provides an SQL interface. You do not need to install this module separately because it is shipped by default along with Python version 2.5.x onwards.
+1. **sqlite3** – SQLite3 can be integrated with Python using sqlite3 module. It provides an SQL interface. You do not need to install this module separately because it is shipped by default along with Python version 2.5.x onwards.
 To use sqlite3 module, you must first create a connection object that represents the database and then optionally you can create a cursor object, which will help you in executing all the SQL statements.
-2. random - Python defines a set of functions that are used to generate or manipulate random numbers. This particular type of functions are used in a lot of games, lotteries or any application requiring random number generation.
+2. **random** - Python defines a set of functions that are used to generate or manipulate random numbers. This particular type of functions are used in a lot of games, lotteries or any application requiring random number generation.
 
 ## CONCLUSION
-Python is an object-oriented, high level language. It is indeed easy learn and use. It can be easily integrated with various databases, like SQLite, MySQL, etc., using SQL (Structured Query Language). We can built a comprehensive applications using Python using native language features and also using in-built and external libraries.
-This project is a money management application that enables multiple users to have a single application to store and manage the money that they have either earned or spent (from their multiple bank accounts including other money sources too) on a daily basis. The application uses a relational database to efficiently store and manage users and also all the money transactions.
+Overall, this self-budget management system acts as a personal financial assistant, empowering individuals to make informed financial decisions, improve their money management skills, and ultimately achieve greater financial stability and success.
