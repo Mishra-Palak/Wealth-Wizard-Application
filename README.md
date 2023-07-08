@@ -1,4 +1,4 @@
-# PERSONALISED MONEY MANAGEMENT SYSTEM
+#WEALTH WIZARD
 This application is your personalised money tracker to check on your daily expenditure, and manage and analyse your spending.
 
 ## OVERVIEW OF THE PROJECT
