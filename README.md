@@ -1,4 +1,4 @@
-# WEALTH WIZARD - A PERSONALISED MONEY MANAGEMENT SYSTEM
+# WEALTH WIZARD - A PERSONAL-BUDGET MANAGEMENT SYSTEM
 This application is a comprehensive financial tool that empowers individuals to take control of their personal finances. It is designed to help users effectively plan, track, and manage their income and expenses, allowing them to achieve their financial goals and maintain a healthy financial lifestyle.
 
 It typically provides a user-friendly interface, allowing individuals to input their income sources, set up budget categories, and establish spending limits for each category. Users can also record their expenses and categorize them accordingly.
